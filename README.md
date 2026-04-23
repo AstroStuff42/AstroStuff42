@@ -1,6 +1,6 @@
 ## Hi!
 
-I want to be a backend dev and also isteresting in cybersecurity.
+I want to be a backend dev and also interested in cybersecurity.
 
 Currently learning Linux, Bash and networking.
 
